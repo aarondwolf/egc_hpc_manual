@@ -1,0 +1,2 @@
+\frametitle{Batch Scripts}
+\lstinputlisting[language=bash,style=bash,caption={stata\_job.sh},basicstyle=\footnotesize]{../stata_job.sh}

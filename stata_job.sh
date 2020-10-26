@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=ststa_job
+#SBATCH --job-name=stata_job
 #SBATCH --ntasks=1 --nodes=1 --cpus-per-task=1
 #SBATCH --mem-per-cpu=5G
 #SBATCH --partition day

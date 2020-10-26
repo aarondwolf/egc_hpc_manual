@@ -1,0 +1,28 @@
+\beamer@sectionintoc {1}{Introduction}{5}{0}{1}
+\beamer@sectionintoc {2}{Getting Started}{9}{0}{2}
+\beamer@sectionintoc {3}{Interactive Mode}{41}{0}{3}
+\beamer@sectionintoc {4}{Running ``Jobs"}{48}{0}{4}
+\beamer@sectionintoc {5}{Stata}{52}{0}{5}
+\beamer@subsectionintoc {5}{1}{Getting Started}{53}{0}{5}
+\beamer@subsectionintoc {5}{2}{Example Project}{67}{0}{5}
+\beamer@sectionintoc {6}{Python}{84}{0}{6}
+\beamer@subsectionintoc {6}{1}{Getting Started}{85}{0}{6}
+\beamer@subsectionintoc {6}{2}{Example Project}{93}{0}{6}
+\par \vfil \penalty -\@M 
+\beamer@sectionintoc {7}{R}{108}{0}{7}
+\beamer@subsectionintoc {7}{1}{Getting Started}{109}{0}{7}
+\beamer@subsectionintoc {7}{2}{Example Project}{117}{0}{7}
+\beamer@sectionintoc {8}{Matlab}{132}{0}{8}
+\beamer@subsectionintoc {8}{1}{Getting Started}{133}{0}{8}
+\beamer@subsectionintoc {8}{2}{Example Project}{137}{0}{8}
+\beamer@sectionintoc {9}{\LaTeX }{152}{0}{9}
+\beamer@sectionintoc {10}{Zoo (Undergrads/CS Students)}{160}{0}{10}
+\par \vfil \penalty -\@M 
+\beamer@sectionintoc {11}{Quick Start Guides}{166}{0}{11}
+\beamer@subsectionintoc {11}{1}{Interactive Sessions}{168}{0}{11}
+\beamer@subsectionintoc {11}{2}{Batch Scripts}{169}{0}{11}
+\beamer@subsectionintoc {11}{3}{Stata}{171}{0}{11}
+\beamer@subsectionintoc {11}{4}{Python}{173}{0}{11}
+\beamer@subsectionintoc {11}{5}{R}{175}{0}{11}
+\beamer@subsectionintoc {11}{6}{Matlab}{177}{0}{11}
+\beamer@subsectionintoc {11}{7}{\LaTeX }{179}{0}{11}
